@@ -1,4 +1,4 @@
-# APCS
+# APCS 自學程式碼
 APCS(大學程式設計先修檢測)歷屆實作題之程式設計練習
 ## 題目連結
 1. 105/03: https://apcs.csie.ntnu.edu.tw/wp-content/uploads/2020/10/APCS-%E5%AF%A6%E4%BD%9C%E9%A1%8C-2016.03.05.pdf
